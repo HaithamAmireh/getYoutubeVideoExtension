@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube Video Download",
+  "version": "1.0",
+  "description": "Youtube Video Download",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "tabs",
+     "downloads"
+]
+}
